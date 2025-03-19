@@ -20,6 +20,7 @@ to be added
 <b>SQL Database Project</b>
 Video game database
 
+[how to add capstone and other docs](https://github.com/StevOB93/Capstone-doc)
 
 <b> <h2> 🔭 I’m currently working on ... </h2> </b>
 getting my CompTIA Certification
